@@ -1,0 +1,9 @@
+Package: com.rednick16.xnotforme
+Name: XNotForMe
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: An awesome library of some sort!!
+Maintainer: Rednick16
+Author: Rednick16
+Section: System
+Tag: role::developer
